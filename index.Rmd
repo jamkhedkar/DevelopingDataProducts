@@ -25,7 +25,7 @@ The application displays:
 The formula used for calculating the BMI in the US system is:
 
 
-$$BMI = \frac{{weight~in~pounds} \times 703}{(height~in~inches)^2}$$
+$$BMI = \frac{weight~in~pounds} \times 703}{(height~in~inches)^2}$$
 
 
 -------------------------
